@@ -114,11 +114,11 @@ Giao diện teminal sau khi thực hiện câu lệnh và đoạn mã nguồn đ
 
 ![alt text](./image/image2.5.png)
 
-### 2.6 Thiết lập Controller
+### 2.6 Thiết lập Controller.
 
 ![alt text](./image/image2.6.png)
 
-### 2.7 Đưa controller vào định tuyến
+### 2.7 Đưa controller vào định tuyến.
 
 ![alt text](./image/image2.7%20(2).png)
 
