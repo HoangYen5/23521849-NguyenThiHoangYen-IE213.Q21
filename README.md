@@ -30,4 +30,8 @@
 - Kết nối tới MongoDB Atlas
 - Làm quen với MongoDB shell
 
+## Lab 02 - Thiết lập BACKEND với NODE.JS và EXPRESS.JS
+
+- Thiết lập môi trường và khởi tạo project
+- Khởi tạo cấu trúc thư mục
 ---
