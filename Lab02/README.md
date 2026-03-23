@@ -65,7 +65,7 @@ Ghi chú: Đường dẫn thực tế có thể khác tùy theo định nghĩa t
 Giao diện tạo cluster:
 ![alt text](./image/image1.1.png)
 
-Kết quả dự kiến: v22.12.0.
+Kết quả thực hiện: v22.12.0.
 
 ### 1.2 Cài đặt công cụ soạn thảo và quản lý mã nguồn
 
@@ -74,13 +74,7 @@ Kết quả dự kiến: v22.12.0.
 ### 1.3 Khởi tạo cây thư mục chứa mã nguồn dự án
 
 - Khởi tạo cây thư mục:
-23521849-NguyenThiHoangYen-IE213.Q21/
-│
-├── Lab01
-├── Lab02
-├──├── movie-reviews
-├──├──├── backend
-└── README.md
+23521849-NguyenThiHoangYen-IE213.Q21/Lab02/movie-reviews/backend
 
 ### 1.4 Khởi tạo dự án với câu lệnh npm int
 
