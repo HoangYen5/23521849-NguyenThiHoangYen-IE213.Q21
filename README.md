@@ -34,4 +34,9 @@
 
 - Thiết lập môi trường và khởi tạo project
 - Khởi tạo cấu trúc thư mục
+
+## Lab 03 — Hoàn Thiện BACKEND (Review, Movie ID, Ratings)
+
+- Xây dựng và hoàn thiện các chức năng CRUD cho Review.
+- Truy vấn dữ liệu và kết nối hệ thống.
 ---
