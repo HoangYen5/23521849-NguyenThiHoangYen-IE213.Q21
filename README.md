@@ -6,7 +6,7 @@
 - Lớp: IE213.Q21
 
 ## Môn học
-- Môn học: IE213.Q21
+- Môn học: Kỹ thuật phát triển hệ thống web
 
 ---
 
@@ -39,4 +39,8 @@
 
 - Xây dựng và hoàn thiện các chức năng CRUD cho Review.
 - Truy vấn dữ liệu và kết nối hệ thống.
+
+## Lab 04 - Thiết lập FRONTEND với REACT.JS
+- Thiết lập môi trường và khởi tạo project
+- Xây dựng Navigation Header bar cho ứng dụng.
 ---
