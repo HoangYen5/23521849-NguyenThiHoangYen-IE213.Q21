@@ -43,4 +43,8 @@
 ## Lab 04 - Thiết lập FRONTEND với REACT.JS
 - Thiết lập môi trường và khởi tạo project
 - Xây dựng Navigation Header bar cho ứng dụng.
+
+## Lab 05 - Hoàn thiện FRONTEND với REACT.JS
+- Tính năng CRUD hoàn chỉnh.
+- Kiểm thử API, tối ưu trải nghiệm người dùng.
 ---
