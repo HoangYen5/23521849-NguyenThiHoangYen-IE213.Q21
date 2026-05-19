@@ -1,0 +1,57 @@
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import Form from "react-bootstrap/Form";
+import Button from "react-bootstrap/Button";
+import Container from "react-bootstrap/Container";
+
+const Login = (props) => {
+  const [name, setName] = useState("");
+  const [id, setId] = useState("");
+  const navigate = useNavigate();
+
+  const onChangeName = (e) => {
+    setName(e.target.value);
+  };
+
+  const onChangeId = (e) => {
+    setId(e.target.value);
+  };
+
+  const login = () => {
+    props.login({ name: name, id: id });
+    // Sau khi login thành công redirect về trang Home
+    navigate("/");
+  };
+
+  return (
+    <Container style={{ marginTop: "1rem" }}>
+      <div>
+        <Form>
+          <Form.Group style={{ marginBottom: "1rem" }}>
+            <Form.Label>Username</Form.Label>
+            <Form.Control
+              type="text"
+              placeholder="Enter username"
+              value={name}
+              onChange={onChangeName}
+            />
+          </Form.Group>
+          <Form.Group style={{ marginBottom: "1rem" }}>
+            <Form.Label>ID</Form.Label>
+            <Form.Control
+              type="text"
+              placeholder="Enter id (e.g. 23521749)"
+              value={id}
+              onChange={onChangeId}
+            />
+          </Form.Group>
+          <Button variant="primary" onClick={login}>
+            Submit
+          </Button>
+        </Form>
+      </div>
+    </Container>
+  );
+};
+
+export default Login;
