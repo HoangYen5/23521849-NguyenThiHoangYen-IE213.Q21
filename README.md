@@ -47,4 +47,8 @@
 ## Lab 05 - Hoàn thiện FRONTEND với REACT.JS
 - Tính năng CRUD hoàn chỉnh.
 - Kiểm thử API, tối ưu trải nghiệm người dùng.
+
+## Lab 06 - Hoàn thiện FRONTEND với REACT.JS tiếp theo
+ - Cải thiện giao diện người dùng: responsive, hiển thị chi tiết phim và review rõ ràng.
+ - Tích hợp API backend và xử lý trạng thái (React hooks / Context), kiểm thử giao diện.
 ---
